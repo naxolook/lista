@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1,TNT SPORTS HD
-http://186.67.226.14:8088/play/a052
-#EXTINF:-1,TNT SPORT 2 HD
-http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/303274
-#EXTINF:-1,TNT Sports 2 SD
-http://186.67.226.14:8088/play/a053
-#EXTINF:-1,TNT Sports 3 SD
-http://186.67.226.14:8088/play/a054
+#EXTINF:0 tvg-name="Spiderman Spider-Verso" tvg-logo="https://www.passline.com/imagenes/eventos/spiderman-a-traves-del-spiderverso-centro-arte-alameda-sala-ceina-187628-img.jpg" group-title="PELICULAS",Spiderman Spider-Verso
+https://fastdl.mapping-latam.cl/media/PELICULAS/Spider-Man%20a%20trav%c3%a9s%20del%20Spider-Verso.mp4
+#EXTINF:0 group-title="PELICULAS", Mision Imposible
+https://tvinnov.online/CINECAN/Mission.Impossible.Dead.Reckoning.Part.One/m1ss10n.1mp0ss1bl3.d34d.r3ck0n1ng.p3rt.0n3.2023.hc.cam.latino.mp4
+#EXTINF:0 group-title="PELICULAS", Hellraiser 4
+http://45.179.164.59:8181/Peliculas/2023/Hellraiser.IV.1996.720p-dual-lat/Hellraiser.IV.1996.720p-dual-lat.mkv
+#EXTINF:0 group-title="PELICULAS",The flash
+http://45.179.164.59:8181/Peliculas/2023/The.Flash.2023.720p-Dual-Lat/The.Flash.2023.720p-Dual-Lat.mkv
