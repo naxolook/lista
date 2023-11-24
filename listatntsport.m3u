@@ -21,3 +21,19 @@ http://200.114.68.133:8999/play/a03m/index.m3u8
 http://200.114.68.133:8999/play/a0it/index.m3u8
 #EXTINF:-1,TNT Sports-arg 24-11
 http://195.181.163.39:80/DEP_TNT_SPORTS/index.m3u8
+#EXTINF:-1 tvg-name="TNT SPORT HD" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg" group-title="CANALES DEPORTES",TNT SPORT HD
+http://45.232.210.1:8061/play/cdfhd
+#EXTINF:-1 tvg-name="TNT SPORT 2 HD" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg" group-title="CANALES DEPORTES",TNT SPORT 2 HD
+http://45.232.210.1:8062/play/a05l/index.m3u8
+#EXTINF:-1 tvg-name="TNT SPORT 2 HD 3.3" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg" group-title="CANALES DEPORTES",TNT SPORT 2 HD 3.3
+http://179.51.169.254:7000/play/a030
+#EXTINF:-1 tvg-name="TNT SPORT 2 HD 1" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg" group-title="CANALES DEPORTES",TNT SPORT 2.1 HD
+http://181.129.198.235:8000/play/a008/index.m3u8
+#EXTINF:-1 tvg-name="TNT SPORT 2.2 HD" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg" group-title="CANALES DEPORTES",TNT SPORT 2.2 HD
+http://200.48.19.142:8000/play/a03s
+#EXTINF:-1 tvg-name="TNT SPORT 2 SD" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg" group-title="CANALES DEPORTES",TNT SPORT 2 SD
+http://181.129.198.235:8000/play/a08y/index.m3u8
+#EXTINF:-1 tvg-name="TNT SPORT 3 SD" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg" group-title="CANALES DEPORTES",TNT SPORT 3 SD
+http://181.129.198.235:8000/play/a08c/index.m3u8
+#EXTINF:-1 tvg-name="TNT SPORT 3 HD" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg" group-title="CANALES DEPORTES",TNT SPORT 3 HD
+http://179.51.169.254:7000/play/a037
