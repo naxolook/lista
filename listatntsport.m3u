@@ -9,3 +9,7 @@ http://186.67.226.14:8088/play/a053
 http://186.67.226.14:8088/play/a054
 #EXTINF:-1,TNT SPORT HD 4 24-11
 http://45.233.169.13:8000/play/a0aq/index.m3u8
+#EXTINF:-1,TNT Sport 24-11
+http://45.4.1.146:7778/play/a00m/index.m3u8 
+#EXTINF:-1,TNT Sport 2 24-11
+http://45.4.1.146:7778/play/a013/index.m3u8
