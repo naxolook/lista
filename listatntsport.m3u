@@ -1,26 +1,6 @@
 #EXTM3U
-#EXTINF:-1,TNT SPORTS HD
-http://186.67.226.14:8088/play/a052
-#EXTINF:-1,TNT SPORT 2 HD
-http://51.222.43.170:8001/030119/rvvbFNvJY8PQ/303274
-#EXTINF:-1,TNT Sports 2 SD
-http://186.67.226.14:8088/play/a053
-#EXTINF:-1,TNT Sports 3 SD
-http://186.67.226.14:8088/play/a054
 #EXTINF:-1,TNT SPORT HD 4 24-11
 http://45.233.169.13:8000/play/a0aq/index.m3u8
-#EXTINF:-1,TNT Sport 24-11
-http://45.4.1.146:7778/play/a00m/index.m3u8 
-#EXTINF:-1,TNT Sport 2 24-11
-http://45.4.1.146:7778/play/a013/index.m3u8
-#EXTINF:-1,HD-20-TNT SPORTS HD 24-11
-http://200.114.68.133:8999/play/a0v5/index.m3u8
-#EXTINF:-1,26-TNT SPORTS 2 24-11
-http://200.114.68.133:8999/play/a03m/index.m3u8
-#EXTINF:-1,27-TNT SPORTS 3 24-11
-http://200.114.68.133:8999/play/a0it/index.m3u8
-#EXTINF:-1,TNT Sports-arg 24-11
-http://195.181.163.39:80/DEP_TNT_SPORTS/index.m3u8
 #EXTINF:-1 tvg-name="TNT SPORT HD" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg" group-title="CANALES DEPORTES",TNT SPORT HD
 http://45.232.210.1:8061/play/cdfhd
 #EXTINF:-1 tvg-name="TNT SPORT 2 HD" tvg-logo="https://tntsports.cl/__export/1610632680933/sites/cdfchile/arte/apps/facebook_20210114.jpg" group-title="CANALES DEPORTES",TNT SPORT 2 HD
